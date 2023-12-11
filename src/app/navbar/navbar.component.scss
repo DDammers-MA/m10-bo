@@ -1,0 +1,21 @@
+.navbar{
+   
+    &__toggler{
+        height: 3.5rem;
+        aspect-ratio: 1/1;
+        background: none;
+      border: none;
+    }
+
+
+    &__canvas{
+     
+    }
+}
+
+.navbar-toggler-icon{
+    height: 100%;
+    width: 100%;
+   
+    font-size: 100%;
+}
