@@ -18,4 +18,5 @@ import { RouterModule } from '@angular/router';
 })
 export class NavbarComponent {
   backgroundImage = '../../assets/img/HomeIMG.webp';
+  
 }

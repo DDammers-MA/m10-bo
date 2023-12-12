@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { RouterModule, Router, NavigationEnd } from '@angular/router';
 import { NavbarComponent } from './navbar/navbar.component';
 import { HomeComponent } from './home/home.component';
+import { FooterComponent } from './footer/footer.component';
 import { ContactComponent } from './contact/contact.component';
 import { filter } from 'rxjs/operators';
 
@@ -14,7 +15,8 @@ import { filter } from 'rxjs/operators';
     NavbarComponent,
     HomeComponent,
     RouterModule,
-    ContactComponent
+    ContactComponent,
+    FooterComponent,
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'

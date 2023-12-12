@@ -1,21 +1,38 @@
 .navbar{
-   
+   height: 5rem;
+  
+
     &__toggler{
         height: 3.5rem;
         aspect-ratio: 1/1;
         background: none;
-      border: none;
+      border: none;     
     }
+
+ 
 
 
     &__canvas{
      
     }
+
+&__imgDiv{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+    height: 4rem;
+
+}
+
+&__logo{
+
+   height: 7rem;
+}
 }
 
 .navbar-toggler-icon{
     height: 100%;
     width: 100%;
-   
     font-size: 100%;
 }
+
