@@ -4,6 +4,7 @@ import { RouterModule, Router, NavigationEnd } from '@angular/router';
 import { NavbarComponent } from './navbar/navbar.component';
 import { HomeComponent } from './home/home.component';
 import { FooterComponent } from './footer/footer.component';
+import { ProjectenComponent } from './projecten/projecten.component';
 import { ContactComponent } from './contact/contact.component';
 import { filter } from 'rxjs/operators';
 
@@ -17,6 +18,7 @@ import { filter } from 'rxjs/operators';
     RouterModule,
     ContactComponent,
     FooterComponent,
+    ProjectenComponent, 
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'

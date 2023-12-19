@@ -1,15 +1,141 @@
+
+html{
+    font-size: 62.5%;
+}
+
 .main{
-   padding: 2rem;
-   height: 85%;
+  
 
     &__article{
-        height: 100%;
+        height: 90vh;
+        flex-grow: 1;
+        backdrop-filter: blur(0.1rem);
+       
+     
+    }
     
+    &__article2{
+     height: auto;
+        flex-grow: 1;
+        background-color: white;
+        padding: 4rem;
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        flex-direction: column;
+        margin-bottom: 5rem;
+      
+    
+
+    }
+
+    &__articleTitle{
+        margin-bottom: 2rem;
+        
+    }
+
+    &__articleSecondTitle{
+        margin-bottom: 1rem;
+       
+    }
+
+    &__articleText{
+     font-size: 1.3rem;
+    }
+
+    &__article2div{
+   
+   
+        padding: 1rem;
+        border-left: 1rem solid red;
+        border-radius: 0.5rem;
+        border-bottom: 0.1rem solid red;
+        margin-bottom: 2rem;
+    }
+
+
+    &__article2List{
+        list-style: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 2rem;
+        font-size: 1.6rem;
+    }
+
+    &__article2List li{
+
+        &:hover{
+            cursor: pointer;
+            transform: scale(1.1);
+            transition: 0.2s all;
+        }
+        
+    }
+
+    &__article2Link{
+        color: red;
+
+
+        &--werkebBij{
+            text-decoration: none;
+          &:hover{
+            transition: 0.2s all;
+            background: red;
+            color: white;
+        }
+        }
+
+        
+
+      
+    }
+
+    &__article2Button{
+        height: auto;
+       
+        background: none;
+        border-radius: 2rem;
+        border-color: red;
+        padding: 0.5rem;
+
+        &:hover{
+            transition: 0.2s all;
+            background: red;
+            color: white;
+        }
+
+    }
+
+    &__div{
+        
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
     }
 
     &__title{
-        
+     
+        display: flex;
+        align-items: center;
+        justify-content: center;
         color: white;
        
+    }
+
+    &__buttonScroll{
+      height: 2rem;
+      width: 10rem;
+      background: white;
+      border-radius: 0.5rem;
+      border: none;
+
+      &:hover{
+        background: black;
+        color: white;
+        transition: 0.5s all;
+      }
     }
 }

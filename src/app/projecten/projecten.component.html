@@ -1,0 +1,17 @@
+<main class="main">
+    <section class="main__section">
+        <h2 class="main__title">projecten</h2>
+        <ul class="main__projectList">
+
+            <li class="main__projectItem" *ngFor="let project of projecten">
+                <a class="main__link" [routerLink]="['/project', project.id]">
+                    <figure class="main__figure">
+                        <img class="main__img" [src]="project.src" alt="Project Image">
+                        <span class="main__name">{{ project.title }}</span>
+                      </figure>
+                </a>
+            </li>
+
+        </ul>
+    </section>
+</main>

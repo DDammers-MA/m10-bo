@@ -1,0 +1,47 @@
+{
+    "projecten": [
+      {
+        "id": 1,
+        "title": "Nieuwbouw Spinoza20first",
+        "src": "../../assets/img/Nieuwbouw Spinoza20first.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Nieuwbouw AICS",
+        "src": "../../assets/img/Nieuwbouw Amsterdam International Community School Buitenveldert.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Another Project",
+        "src": "../../assets/img/Renovatie Bostheater.png"
+      },
+         {
+            "id": 4,
+        "title": "Another Project",
+        "src": "../../assets/img/Nieuwbouw Basisschool De Wereldburger.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Another Project",
+        "src": "../../assets/img/vierkant_burobraak.jpg"
+      },
+  
+      {
+        "id": 6,
+        "title": "Another Project",
+        "src": "../../assets/img/Renovatie Amsterdam Museum.jfif"
+      },
+   
+      {
+        "id": 7,
+        "title": "Another Project",
+        "src": "../../assets/img/Sportpark Goed Genoeg & Clubgebouw AFC.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Another Project",
+        "src": "../../assets/img/01_CIE_Osdorp_Bibliotheek_Hero_05_Copyright_AbsentMatter2022.jpg"
+      }
+     
+    ]
+  }

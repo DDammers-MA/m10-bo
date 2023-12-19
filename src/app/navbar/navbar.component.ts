@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { HomeComponent } from '../home/home.component';
 import { RouterOutlet } from '@angular/router';
 import { RouterModule } from '@angular/router';
+import { ProjectenComponent } from '../projecten/projecten.component';
 
 @Component({
   selector: 'app-navbar',
@@ -11,7 +12,9 @@ import { RouterModule } from '@angular/router';
     CommonModule,
     RouterOutlet,
     RouterModule,
-    HomeComponent,],
+    HomeComponent,
+    ProjectenComponent,
+  ],
    
   templateUrl: './navbar.component.html',
   styleUrl: './navbar.component.scss'
