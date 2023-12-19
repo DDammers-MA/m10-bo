@@ -9,12 +9,12 @@ import { ProjectDetailComponent } from '../project-detail/project-detail.compone
 @Component({
   selector: 'app-projecten',
   standalone: true,
-  imports: [ CommonModule, RouterModule, ProjectDetailComponent ],
+  imports: [ CommonModule, RouterModule,],
   templateUrl: './projecten.component.html',
   styleUrl: './projecten.component.scss'
 })
 export class ProjectenComponent {
- 
+  projectDetailComponent = ProjectDetailComponent; 
   projecten = projects.projecten;
 
   constructor() {
