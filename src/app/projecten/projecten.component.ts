@@ -13,6 +13,7 @@ import { ProjectDetailComponent } from '../project-detail/project-detail.compone
   templateUrl: './projecten.component.html',
   styleUrl: './projecten.component.scss'
 })
+  
 export class ProjectenComponent {
   projectDetailComponent = ProjectDetailComponent; 
   projecten = projects.projecten;

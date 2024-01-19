@@ -1,5 +1,27 @@
-<div *ngIf="project">
-    <h2>{{ project.title }}</h2>
-    <img [src]="project.src" alt="Project Image">
+<main class="main" *ngIf="project">
+
+  <figure class="main__figure">
+    <h2 class="main__title">{{ project.title }}</h2>
+    <img class="main__img" [src]="project.src" alt="Project Image">
     <!-- Add other project details as needed -->
-  </div>
+  </figure>
+
+  <article class="main__article">
+    <h4 class="main__title2">{{ project.title2 }}</h4>
+
+    <div>
+      <p class="main__text">{{ project.text1 }}</p>
+      <p class="main__text">{{ project.text2 }}</p>
+      <p class="main__text">{{ project.text3 }}</p>
+      <p class="main__text">{{ project.text4 }}</p>
+    </div>
+    
+  </article>
+
+  <article>
+    
+  </article>
+  
+  
+
+</main>

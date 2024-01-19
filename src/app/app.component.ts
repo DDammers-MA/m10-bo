@@ -7,11 +7,16 @@ import { FooterComponent } from './footer/footer.component';
 import { ProjectenComponent } from './projecten/projecten.component';
 import { ContactComponent } from './contact/contact.component';
 import { filter } from 'rxjs/operators';
+import { HttpClientModule } from '@angular/common/http';
+
+
 
 @Component({
   selector: 'app-root',
   standalone: true,
+  
   imports: [
+   
     CommonModule,
     NavbarComponent,
     HomeComponent,
@@ -19,7 +24,11 @@ import { filter } from 'rxjs/operators';
     ContactComponent,
     FooterComponent,
     ProjectenComponent, 
+    HttpClientModule,
   ],
+  
+
+ 
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })

@@ -1,47 +1,98 @@
 {
-    "projecten": [
-      {
-        "id": 1,
-        "title": "Nieuwbouw Spinoza20first",
-        "src": "../../assets/img/Nieuwbouw Spinoza20first.jpg"
-      },
-      {
-        "id": 2,
-        "title": "Nieuwbouw AICS",
-        "src": "../../assets/img/Nieuwbouw Amsterdam International Community School Buitenveldert.jpg"
-      },
-      {
-        "id": 3,
-        "title": "Renovatie Bostheater",
-        "src": "../../assets/img/Renovatie Bostheater.png"
-      },
-         {
-            "id": 4,
-        "title": "Renovatie de Wereldburger",
-        "src": "../../assets/img/Nieuwbouw Basisschool De Wereldburger.jpg"
-      },
-      {
-        "id": 5,
-        "title": "Kwartiermaker Nationaal Slavernijmuseum",
-        "src": "../../assets/img/vierkant_burobraak.jpg"
-      },
-  
-      {
-        "id": 6,
-        "title": "Renovatie Amsterdam Museum",
-        "src": "../../assets/img/Renovatie Amsterdam Museum.jfif"
-      },
-   
-      {
-        "id": 7,
-        "title": "Sportpark Goed Genoeg & Clubgebouw AFC",
-        "src": "../../assets/img/Sportpark Goed Genoeg & Clubgebouw AFC.jpg"
-      },
-      {
-        "id": 8,
-        "title": "Verbouwing en Nieuwbouw Werven en Overslagpunten",
-        "src": "../../assets/img/01_CIE_Osdorp_Bibliotheek_Hero_05_Copyright_AbsentMatter2022.jpg"
-      }
-     
-    ]
-  }
+  "projecten": [
+    {
+      "id": 1,
+      "title": "Nieuwbouw Spinoza20first",
+      "src": "../../assets/img/Nieuwbouw-Spinoza20first.webp",
+      "title2": "Spinoza20First: duurzame school en sporthal",
+      "text1": "Waar ooit de parkeergarage van de voormalige Bijlmerbajes stond, zorgde een team van BMV voor de realisatie van nieuwbouw van de Spinoza20First-school en Sporthal Bajeskwartier, met daaraan gekoppeld een jongerencentrum.",
+      "text2": "Deze middelbare school biedt plek aan 1.000 tot 1.200 leerlingen. De sporthal bestaat uit drie zalen. Deze worden op doordeweekse dagen overdag gebruikt door Spinoza20First en in de avonden en weekenden door verenigingen.",
+      "text3":"Bij de ontwikkeling van de school en de sporthal besteedde BMV veel aandacht aan duurzaamheid. Zo is het gebouw flexibel indeelbaar, heeft het een lichte constructie en is bij de bouw gebruik gemaakt van duurzame materialen. Verder is het gebouw aangesloten op de warmte/koude-opslaginstallatie (voor verwarming in de winter en verkoeling in de zomer) van het gebied Bajeskwartier.",
+      "text4": "Het dak van de school – met daarop het schoolplein – bevat veel groen, dat bijdraagt aan het vasthouden van regenwater. Op het dak van de sporthal bevinden zich hiernaast zonnepanelen."
+    },
+    {
+      "id": 2,
+      "title": "Nieuwbouw AICS",
+      "title2": "Amsterdam International Community School (AICS): wereldschool in wereldstad",
+      "src": "../../assets/img/Nieuwbouw-Amsterdam-International-Community-School-Buitenveldert.webp",
+      "text1": "Vlak achter het VU-universiteitscomplex op de Zuidas is eind 2021 de Amsterdam International Community School (AICS) opgeleverd. BMV was vanaf het prille begin betrokken bij de bouw van de school: van het locatieonderzoek tot aan de oplevering.",
+      "text2": "Het schoolgebouw van 16.000 vierkante meter biedt plek aan 1.400 basis- en middelbare schoolleerlingen. In het kader van duurzaamheid zijn diverse maatregelen getroffen. Zo is er een groen dak aangelegd en zijn er zonnepanelen geplaatst. De gevel is natuurinclusief,  over enkele jaren is deze verticale tuin begroeid met planten. Ook zijn er kasten voor huismussen en vleermuizen geplaatst. In het gebouw is een wandelement in de centrale hal over de gehele lengte, gemaakt van de gekapte bomen die plaats moesten maken voor het gebouw, een belangrijke sfeermaker.",
+      "text3": "BMV stuurde het ontwerptraject aan, gaf vorm aan alle inkoopprocessen en vergunningtrajecten, organiseerde bewonersparticipatie en -communicatie, stemde af met de vele stakeholders in het gebied en verzorgde het contractmanagement met de aannemer. En zo groeide de AICS uit tot wat het nu is: een school die met succes is gebouwd, op tijd, binnen budget en met de gewenste kwaliteit."
+    },
+    {
+      "id": 3,
+      "title": "Renovatie Bostheater",
+      "title2": "Bostheater: klassieke attractie, vernieuwde jas",
+      "src": "../../assets/img/Renovatie-Bostheater.webp",
+      "text1": "Op dinsdag 23 mei 2023 vond de officiële opening plaats van het grootste openluchttheater van Nederland: het Bostheater. Het Bostheater is gebouwd in de jaren ’50 en voldeed niet meer aan de eisen van de huidige tijd. BMV bereidde de besluitvorming voor die geleid heeft tot het besluit om het Bostheater te renoveren.",
+      "text2": "Na het besluit verzorgde en begeleidde het BMV de ontwerp- en bouwwerkzaamheden.  Het ontwerp is in een multidisciplinaire bouwteam zorgvuldig uitgewerkt. De focus van de bouwwerkzaamheden lag op de renovatie en restauratie van de betonnen onderdelen, waar mogelijk het herstellen van het oorspronkelijke landschapsontwerp en het plaatsen van nieuwbouw voor kleed-, opslag- en techniekruimten.",
+      "text3": "Tevens is de theaterinfrastructuur grotendeels vernieuwd en uitgebreid. Op deze wijze is het theater omgetoverd tot een moderne cultuuroase, die voldoet aan de eisen en wensen van de huidige tijd en daarmee weer vele jaren tegemoet kan gaan."    },
+    {
+      "id": 4,
+      "title": "Renovatie de Wereldburger",
+      "title2": "Wereldburger: prijswinnende renovatie",
+      "src": "../../assets/img/Nieuwbouw-Basisschool-De-Wereldburger.webp",
+      "text1": "Het gebouw van basisschool De Wereldburger in Amsterdam Nieuw-West (Osdorp) dateerde uit de jaren ’60. Grootschalige renovatie was nodig om het te laten voldoen aan de huidige onderwijskundige en technische eisen. Een team van BMV verzorgde de renovatie.",
+      "text2": "Het gebouw werd gesloopt tot op het betoncasco en vanaf daar weer opgebouwd. Bij de renovatie was hergebruik een belangrijk uitgangspunt. Waar mogelijk werden materialen uit het oorspronkelijke schoolgebouw gebruikt, evenals materialen uit andere panden. Het resultaat mag er zijn en de vernieuwde Wereldburger viel al snel in de prijzen.",
+      "text3": "In 2022 werd het gebouw bekroond met de publieksjuryprijs bij de jaarlijkse Amsterdamse Architectuurprijs en won het de NRP Gulden Fenix (de nationale prijs voor voorbeeldprojecten in renovatie en transformatie) in de categorie ‘renovatie’."
+    },
+    {
+      "id": 5,
+      "title": "Kwartiermaker Nationaal Slavernijmuseum",
+      "title2": "Nationaal Slavernijmuseum",
+      "src": "../../assets/img/vierkant_burobraak.webp"
+    },
+    {
+      "id": 6,
+      "title": "Renovatie Amsterdam Museum",
+      "title2": "Amsterdam Museum: renovatie in voorbereiding",
+      "src": "../../assets/img/Renovatie-Amsterdam-Museum.webp",
+      "text1": "Het nieuwe Amsterdam Museum wordt een publieksvriendelijke plek waar bezoekers en bewoners Amsterdam leren kennen, in een museumgebouw dat in verbinding staat met de buurt, de stad en haar bewoners.",
+      "text2": "Het ontwerp voor het nieuwe Amsterdam Museum is gebaseerd op uitvoerig onderzoek naar de ontstaansgeschiedenis van het monument, naar mogelijk hergebruik van materialen uit het verleden en naar inbedding in het middeleeuwse hart van de binnenstad. Met inventieve oplossingen verandert het gesloten monument in een open museum: met aandacht voor de geschiedenis van het gebouw en de plek. Dankzij de renovatie zal het gebouw bovendien voldoen aan actuele duurzaamheidseisen.",
+      "text3": "De voorbereidingen van de renovatie zijn inmiddels in volle gang. BMV begeleidt de gehele renovatie, van haalbaarheidsonderzoek tot de oplevering en opening van het nieuwe museum."
+
+    },
+    {
+      "id": 7,
+      "title": "Sportpark Goed Genoeg & Clubgebouw AFC",
+      "title2": "AFC: nieuwe velden, nieuw clubhuis",
+      "src": "../../assets/img/Sportpark-Goed-Genoeg-_-Clubgebouw-AFC.webp",
+      "text1": "nieuw clubhuis In 2020 verzorgde een team van bouwmanagers van BMV vijf nieuwe kunstgrasvelden en een gloednieuw clubhuis voor AFC, de Amsterdamsche Football Club. Dit moest gebeuren om AFC in te passen in de almaar groeiende Zuidas.",
+      "text2": "BMV begeleidde de verplaatsing van de velden en het clubhuis in noordelijke richting, om op de ‘oude’ locatie ruimte te maken voor een nieuwe woonwijk. De werkzaamheden vonden gefaseerd plaats, zodat er tijdens de bouw gewoon kon worden gevoetbald.",
+      "text3": "Het nieuwe clubgebouw is in 2020 opgeleverd. In september 2022 zijn het sportpark en het clubgebouw officieel in gebruik genomen."
+    },
+    {
+      "id": 8,
+      "title": "Verbouwing en Nieuwbouw Werven en Overslagpunten",
+      "title2": "Programma Transitie Werven en Overslagpunten",
+      "src": "../../assets/img/01_CIE_Osdorp_Bibliotheek_Hero_05_Copyright_AbsentMatter2022-ezgif.com-jpg-to-webp-converter.webp",
+      "text1": " In Amsterdam zorgen meer dan 2500 ambtenaren  elke dag voor de reiniging, de handhaving, de afvalinzameling en het dagelijks onderhoud van de openbare ruimte van de stad inclusief de kades en de bruggen en het groen. Zij werken vanuit 37 locaties in de stad.",
+      "text2": "Sinds 2019 en ook nog de komende jaren werken 12 bouwmanagers van Team BMV met andere collega’s van de gemeente samen om die 37 werklocaties in de stad samen te voegen tot 23. Deze nieuwe uitvoeringslocaties moeten optimaal zijn: slim ruimtegebruik, duurzaamheid en toekomstbestendigheid zijn leidend. Er wordt ook gekeken naar het verminderen van vervoerbewegingen en de mogelijkheid van vervoer over water.",
+      "text3": "Belangrijk uitgangspunt is het bieden van een prettige werkomgeving en de juiste faciliteiten aan de mensen die het zware werk doen voor de stad. Er wordt hard gewerkt om in 2027 alle 23 nieuwe locaties gereed te hebben. Meer weten? Luister dan naar deze podcast"
+    }
+  ],
+
+
+  "organisatie":[
+    {
+      "text1": "Het ontwikkelen en realiseren van maatschappelijke voorzieningen is binnen de gemeente Amsterdam in handen van team BMV: Bouwmanagement en Maatschappelijk Vastgoed, onderdeel van het Projectmanagementbureau. Bij BMV werken bouwmanagers en project- en procesmanagers, samen met collega’s van verschillende gemeentelijke afdelingen, aan de toekomst van de stad.",
+      "text2": "BMV stond aan de wieg van het Amsterdamse beleid voor maatschappelijke voorzieningen. Dit beleid werd in 2018 verankerd in de ‘Referentienormen voor maatschappelijke voorzieningen, groen en spelen’. Het doel van deze normen is de groei van de stad te koppelen aan maatschappelijke voorzieningen en activiteiten. Deze worden niet vanzelfsprekend door de private sector opgepakt en vragen daarom een actieve rol van de gemeentelijke overheid. Het gaat hierbij om gebouwen (zogenaamd maatschappelijk vastgoed) en het – letterlijk – creëren van ruimte voor sport, spel, kunst en cultuur.",
+      "text3": "Naast de maatschappelijke voorzieningen werkt BMV ook aan beheer en faciliteren van goede werkplekken - zoals kantoren, werven, garages en opslagruimtes - voor de mensen die de stad en het stadslandschap schoon en netjes houden. De stadsdeelkantoren en andere kantoren voor de gemeentelijke organisatie zijn ook onderdeel van ons werkveld."
+    },
+
+    {
+      "text1": "De werkgebieden en de expertise van bouwmanagement en maatschappelijk vastgoed overlappen elkaar, vullen elkaar aan en versterken elkaar. BMV hanteert daarom een integrale aanpak: een kruisbestuiving tussen verschillende disciplines, uiteenlopend van proces-, project- en bouwmanagement tot planning, financiën, grond en ontwikkeling, vastgoed en juridische zaken.",
+      "text2" : "De werkzaamheden van BMV omvatten onder andere en natuurlijk afhankelijk van het soort project: bestuurlijk adviseren van verschillende directies en het gemeentebestuur (het College van B&W en de gemeenteraad) in de verschillende beleidsfases. opstellen van een programma van eisen, onderzoek doen naar geschikte locaties, controleren van het budget in relatie tot de ambities, aansturen van een ontwerptraject, organiseren van selecties en aanbestedingen, voorbereiden en coördineren van de bouw, verzorgen van het feestje rond de oplevering.",
+      "text3" : "BMV schakelt tussen project en proces. Het team is binnen de gemeente Amsterdam hét adres voor vraagstukken op het snijvlak van het sociale en fysieke domein. BMV biedt een integraal en overzichtelijk pakket per project. En het verbindt de wensen van de opdrachtgever en de gebruiker aan de mogelijkheden in het gebied, de kosten en de planning."
+    },
+    {
+      "text1": "Bij BMV werken rond de 60 bouwmanagers en project- en procesmanagers maatschappelijk vastgoed, met als thuisbasis een kantoor in het hart van Amsterdam. Waar nodig schakelt BMV externe experts in, voor specifieke aspecten van een project.",
+      "text2" : "BMV stuurt projecten aan vanuit zelfstandig werkende teams met korte lijnen en veel dynamiek. In de teams hebben de betreffende medewerkers voldoende tijd om van elkaar te leren, innovatieve ideeën te ontwikkelen of zelfs met een compleet nieuwe aanpak te komen.",
+      "text3" : "Immers, een stad als Amsterdam staat – net als het leven zelf – nooit stil. Kijk op de pagina 'Projecten' voor meer informatie over recente projecten waar BMV aan bijdroeg of momenteel bij betrokken is."
+    }
+
+
+
+  ]
+
+}

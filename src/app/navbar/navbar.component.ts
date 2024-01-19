@@ -4,6 +4,7 @@ import { HomeComponent } from '../home/home.component';
 import { RouterOutlet } from '@angular/router';
 import { RouterModule } from '@angular/router';
 import { ProjectenComponent } from '../projecten/projecten.component';
+import { OrganisatieComponent } from '../organisatie/organisatie.component';
 
 @Component({
   selector: 'app-navbar',
@@ -14,6 +15,7 @@ import { ProjectenComponent } from '../projecten/projecten.component';
     RouterModule,
     HomeComponent,
     ProjectenComponent,
+    OrganisatieComponent,
   ],
    
   templateUrl: './navbar.component.html',

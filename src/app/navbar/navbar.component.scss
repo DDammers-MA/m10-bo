@@ -9,8 +9,10 @@
     }
 
     &__canvas{
-     
+   
     }
+
+
 
 &__imgDiv{
    display: flex;
@@ -24,11 +26,35 @@
 
    height: 7rem;
 }
+
+&__item{
+    background-color: red;
+}
+
+&__link{
+
+    &--werken{
+        background-color: red;
+        font-size: 5rem;
+    }
+}
 }
 
 .navbar-toggler-icon{
     height: 100%;
     width: 100%;
     font-size: 100%;
+}
+
+.nav-link{
+
+
+    &--werken{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: red;
+        border-radius: 0.5rem;
+    }
 }
 
