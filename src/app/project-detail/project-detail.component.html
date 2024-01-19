@@ -18,9 +18,18 @@
     
   </article>
 
-  <article>
-    
+  <article class="main__slider">
+    <div id="slider-container">
+      <div id="slider" [style.transform]="'translateX(' + (-currentIndex * 100) + '%)'">
+        <div class="slide" *ngFor="let imagePath of imagePaths">
+          <img class="main__sliderImg" [src]="imagePath" alt="Project Image" />
+        </div>
+      </div>
+      <button (click)="prevSlide()"> < </button>
+      <button (click)="nextSlide()"> > </button>
+    </div>
   </article>
+  
   
   
 

@@ -1,0 +1,6 @@
+<div class="slideshow" *ngIf="projecten">
+    <img [src]="projecten[currentIndex]?.src" alt="{{projecten[currentIndex]?.title}}">
+    <button (click)="prevSlide()">Previous</button>
+    <button (click)="nextSlide()">Next</button>
+  </div>
+  
